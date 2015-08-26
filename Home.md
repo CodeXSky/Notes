@@ -10,4 +10,4 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Creating a Bash Script](https://github.com/juanfrans/notes/wiki/Creating-a-Bash-Script)
 * [Creating a Cron Job](https://github.com/juanfrans/notes/wiki/Creating-a-Cron-Job)
 * [Getting Notifications (Terminal)](https://github.com/juanfrans/notes/wiki/Getting-Notifications-(Terminal))
-* Other
+* [Other](https://github.com/juanfrans/notes/wiki/Other-(Terminal))
