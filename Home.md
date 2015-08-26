@@ -13,3 +13,4 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Other](https://github.com/juanfrans/notes/wiki/Other-(Terminal))
 
 ### AWS (EC2)
+* [Setting Up and Login In to and EC2 Instance](https://github.com/juanfrans/notes/wiki/Setting-Up-and-Login-In-to-an-EC2-Instance-(AWS))
