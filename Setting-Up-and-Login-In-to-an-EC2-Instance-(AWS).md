@@ -29,4 +29,6 @@ The instructions here are divided between "Local", "AWS Console" and "Remote". "
 
 ### Accessing Instance Without Key
 * To access instance without key (with id and password only) edit the `/etc/ssh/sshd_config` file and set `PasswordAuthentication yes`. To do this, however, you need to be working as the root user.
-* Change to the root user by `sudo -s`
+* Change to the root user by `sudo -s` and you can edit the file with Nano.
+
+* After all these changes you should reboot your instance with `sudo reboot`.
