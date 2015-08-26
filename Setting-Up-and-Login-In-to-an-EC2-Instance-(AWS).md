@@ -11,6 +11,8 @@ The instructions here follow the ones outlined by Dennis Tenen [here](https://gi
 ### Accessing Your Instance
 The instructions here are divided between "Local", "AWS Console" and "Remote". "Local" means from your local user (usually in a Terminal window); and "remote" means once you've successfully logged into your instance, as a remote user.
 * (Local) To log in to your AWS instance use `ssh -vi path/to/key.pem ec2-user@ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com`.
+
+### Creating New Users
 * (Remote) Once you're logged into your instance, you can create new users and groups. To add a user do `sudo adduser username`.
 * (Remote) Change to the new user with `sudo su - username`. Create a `.ssh` directory to place the `authorized_keys` file: use `mkdir .ssh`.
 * (Remote) Change the permissions of the `.ssh` directory to `700`: `chmod 700 .ssh`. And create a file named `authorized_keys` in the `.ssh` directory: `touch .ssh/authorized_keys`.
