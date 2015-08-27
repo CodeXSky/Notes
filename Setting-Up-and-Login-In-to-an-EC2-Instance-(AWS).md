@@ -27,6 +27,7 @@ The instructions here are divided between "Local", "AWS Console" and "Remote". "
 * Finally, put your user in the `wheel` group using `usermod -aG wheel username`.
 * To test if your user did get sudo permissions, switch to that user with `su username` and type `groups`. Your user should group should be `wheel`. And you can use the `sudo whoami` command and verify that you are `root`.
 * A more detailed explanation of these last steps can be found [here](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/2/html/Getting_Started_Guide/ch02s03.html).
+* If you are working in an Ubuntu system you only need to do this `sudo usermod -a -G sudo hduser` where `hduser` is the user you want to grand sudo privileges.
 
 ### Accessing Instance Without Key
 * To access instance without key (with id and password only) edit the `/etc/ssh/sshd_config` file and set `PasswordAuthentication yes`. To do this, however, you need to be working as the root user.
