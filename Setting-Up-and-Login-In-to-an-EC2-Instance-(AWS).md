@@ -17,7 +17,7 @@ The instructions here are divided between "Local", "AWS Console" and "Remote". "
 * (Remote) Once you're logged into your instance, you can create new users and groups. To add a user do `sudo adduser username`.
 * (Remote) To give a user a specific password use `passwd username`.
 * (Remote) Change to the new user with `sudo su - username`. Create a `.ssh` directory to place the `authorized_keys` file: use `mkdir .ssh`.
-* (Remote) Change the permissions of the `.ssh` directory to `700`: `chmod 700 .ssh`. And create a file named `authorized_keys` in the `.ssh` directory: `touch .ssh/authorized_keys`.
+* (Remote) Change the permissions of the `.ssh` directory to `700`: `chmod 700 .ssh/`. And create a file named `authorized_keys` in the `.ssh` directory: `touch .ssh/authorized_keys`.
 * (Remote) Edit the `authorized_key` file with a text editor (ie. Nano) and paste the _public_ key for your key pair. You can find your public key by running the following local command (local means on your computer, not on the instance): `ssh-keygen -y`. This command should return your _public_ key. Copy this and paste it on your remote `authorized_key` file.
 * More detailed instructions about these two last steps can be found [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/managing-users.html) and [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html#retrieving-the-public-key).
 * To remove a user do `sudo userdel -r username`. The `r` flag deletes the home directory and mail spool.
