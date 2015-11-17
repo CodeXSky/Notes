@@ -17,3 +17,6 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Setting Up and Login In to and EC2 Instance](https://github.com/juanfrans/notes/wiki/Setting-Up-and-Login-In-to-an-EC2-Instance-(AWS))
 * [Customizing an EC2 Instance](https://github.com/juanfrans/notes/wiki/Customizing-EC2-Instance-(AWS))
 * [Copying Files Between Local Computer and EC2 Instance](https://github.com/juanfrans/notes/wiki/Copying-Files-Between-Local-Computer-and-Instance-(AWS))
+
+### Markdown Basics
+* [Markdown Basics](https://github.com/juanfrans/notes/wiki/Markdown-Basics)
