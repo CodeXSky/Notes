@@ -1,3 +1,1 @@
-Juan's Wiki, with notes, commands and snippets of code | [creative commons](https://creativecommons.org/licenses/by/4.0/)
-
-For more info [juanfrans](https://github.com/juanfrans)
+Juan's Wiki, with notes, commands and snippets of code | [creative commons](https://creativecommons.org/licenses/by/4.0/) | More info [@juanfrans](https://github.com/juanfrans)
