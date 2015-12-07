@@ -8,7 +8,7 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Backing Up and Synchronizing](https://github.com/juanfrans/notes/wiki/Backing-Up-and-Synchronizing-Files-(Terminal))
 * [Github Basic Commands](https://github.com/juanfrans/notes/wiki/Github-Basic-Commands-(Terminal))
 * [Creating a Bash Script](https://github.com/juanfrans/notes/wiki/Creating-a-Bash-Script-(Terminal))
-* [Creating a Cron Job](https://github.com/juanfrans/notes/wiki/Creating-a-Cron-Job)
+* [Creating a Cron Job](https://github.com/juanfrans/notes/wiki/Creating-a-Cron-Job-(Terminal))
 * [Getting Notifications](https://github.com/juanfrans/notes/wiki/Getting-Notifications-(Terminal))
 * [Other](https://github.com/juanfrans/notes/wiki/Other-(Terminal))
 * [Access shared SMB drives](https://github.com/juanfrans/notes/wiki/Access-shared-SMB-drive-(Terminal))
