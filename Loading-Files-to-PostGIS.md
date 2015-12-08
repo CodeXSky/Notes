@@ -54,3 +54,19 @@ CONSTRAINT enforce_geotype_geom CHECK (geometrytype(the_geom) = 'POINT'::text OR
 CONSTRAINT enforce_srid_the_geom CHECK (st_srid(the_geom) = 4326)
 );
 ```
+
+Note: I don't know if the term `float` actually works well. It might be `float8`. This [page](http://www.postgresql.org/docs/9.4/static/datatype.html) has more info.
+* Then you need to create the index (don't know exactly what that means...):
+```sql
+CREATE INDEX green_trips_the_geom_gist
+ON green_trips
+USING gist
+(the_geom );
+```
+* Then you need to actually copy the csv file into the table. In the database do: `\copy table_name(field1,field2,field3,etc,etc) FROM `path/to/file.csv` DELIMITERS ',' CSV HEADER`.
+* You can check that the file was imported by printing some of the columns: `SELECT column_name FROM table_name;`.
+* The last step is to populate the geometry field based on the lat and lon:
+```sql
+UPDATE table_name
+SET the_geom = ST_GeomFromText('POINT(' || lon_field_name || ' ' || lat_field_name || ')',SRID_number);
+```
