@@ -22,4 +22,4 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Markdown Basics](https://github.com/juanfrans/notes/wiki/Markdown-Basics)
 
 ### PostGIS
-* [Creating a Spatial Database](https://github.com/juanfrans/notes/wiki/Creating-a-Spatial-Database)
+* [Creating a Spatial Database](https://github.com/juanfrans/notes/wiki/PostGIS-and-PostgreSQL)
