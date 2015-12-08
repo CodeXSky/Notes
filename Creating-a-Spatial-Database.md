@@ -28,5 +28,6 @@ Use [Homebrew](http://brew.sh/) to intall both:
 * List all tables in database: `\dt`.
 
 ### Useful links
-* Find the SRID number [here](http://prj2epsg.org/search) by copying the text of the .prj file.
+* Find the SRID number [here](http://prj2epsg.org/search) by copying the text of the .prj file. You can do the reverse [here](http://www.epsg-registry.org/).
 * This [cheatsheet](http://www.bostongis.com/pgsql2shp_shp2pgsql_quickguide.bqg) seems to be useful for loading data.
+* [Here](http://workshops.boundlessgeo.com/postgis-intro/index.html) is the Boundless tutorial for the GUI version of PostGIS.
