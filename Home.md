@@ -25,3 +25,6 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Creating a Spatial Database](https://github.com/juanfrans/notes/wiki/Creating-a-Spatial-Database)
 * [Loading Files to a Spatial Database](https://github.com/juanfrans/notes/wiki/Loading-Files-to-PostGIS)
 * [Querying and Other PostGIS Tools](https://github.com/juanfrans/notes/wiki/Querying-and-Other-Tools-PostGIS)
+
+### Other
+* [Conferences and Journals](https://github.com/juanfrans/notes/wiki/Conferences-and-Journals)
