@@ -7,7 +7,11 @@ Here are some examples of queries and other useful commands.
 * More adding trips by location: `select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(t.credit) as sum_credit from nynta as n, green_trips as t where st_intersects(t.the_geom,n.geom) group by n.ntaname;`
 
 ### Other
-* List all databases with `\l`.
+* List all databases with `\l`. Or list with description and size (disk usage): `\l+`
+* List all databases outside Postgresql: `psql -l`
+* List all tables and their size: `\d+`
+* Deleting database: `drop database database_name;`
+* Show location of database: `show data_directory;`
 * Removing a constraint so you can reproject:
 ```sql
 alter table green_trips
