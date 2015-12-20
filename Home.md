@@ -28,3 +28,4 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 
 ### Other
 * [Conferences and Journals](https://github.com/juanfrans/notes/wiki/Conferences-and-Journals)
+* [CV, Links and Publications](https://github.com/juanfrans/notes/wiki/CV-Links-and-Publications)
