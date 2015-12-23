@@ -9,4 +9,5 @@ These are substitute commands, or variations of the command, but I haven't used 
 ### Other
 * `xargs` - passes the arguments (ie. `find . -name “*.pdf” -print0 | xargs -0 lp -o fit-to-page`).
 * `wc` - word count (ie. `grep “whale” pg2701.txt | wc`).
+* `wc -l` - line count.
 * `uniq - c` - find unique and count.

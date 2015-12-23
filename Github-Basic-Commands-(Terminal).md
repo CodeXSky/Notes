@@ -15,4 +15,8 @@
 ### Other
 * `rm -rf .git/` - to remove that directory from “version control”.
 
+### Errors
+* To 'unstage' commits do: `git reset --soft HEAD~` (if you need to 'unstage' multiple commits, repeat this command as many times as needed). Afterwards, when you've fixed the files you can `git add -A` and `git commit` again.
+* If you only need to change the commit message then `git commit --amend` will open the message editor.
+
 More info [here](https://github.com/denten/dhnotes/wiki/github-workflow) by Dennis Tenen.
