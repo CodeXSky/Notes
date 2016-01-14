@@ -11,6 +11,7 @@
 * `df -h` - displays free disk space.
 * `du -sh` - displays disk usage (the flag `s` is for summarized form).
 * `du -sh *` - displays the disk usage for every folder or file in that location.
+* To create a text file with the size of folders and subfolders do `du -hd 3 * > 00_File_and_Folder_Size.txt`. The `du` is disk usage, the flag `h` means human readable and the `d 3` means with a depth of 3 (folders), and the `*` means all folders and files there.
 * Another option is to do `du -s * | sort -n` which will sort the results based on the size from smallest to largest.
 * arrow up or arrow down, brings up the last commands. Space bar to go to next page.
 
@@ -32,7 +33,6 @@
 * You can join multiple files with `cat`. For example: `cat file1.txt file2.txt file3.txt > file4.txt`.
 * `zip -r foo.zip foo` - zips foo into the foo.zip file.
 * `unzip \*.zip` - unzips multiple files.
-* To create a text file with the size of folders and subfolders do 'du -hd 3 * > 00_File_and_Folder_Size.txt'. The `du` is disk usage, the flag `h` means human readable and the `d 3` means with a depth of 3 (folders), and the `*` means all folders and files there.
 
 ### Text editor
 * `nano` - Nano is one of the text editors. You can open files with `nano file/to/open` and edit them there.
