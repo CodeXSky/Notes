@@ -11,3 +11,7 @@ These are substitute commands, or variations of the command, but I haven't used 
 * `wc` - word count (ie. `grep “whale” pg2701.txt | wc`).
 * `wc -l` - line count.
 * `uniq - c` - find unique and count.
+
+### Search Files
+* You can also search for specific files with the `find` command. For example, `find . -name '*.DS_Store'`.
+* And you can chain that command with other commands, like here: `find . -name '*.DS_Store' -exec mv -v {} 00_DS_Store \;` chaining it with the move command.
