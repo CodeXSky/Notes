@@ -13,5 +13,5 @@ These are substitute commands, or variations of the command, but I haven't used 
 * `uniq - c` - find unique and count.
 
 ### Search Files
-* You can also search for specific files with the `find` command. For example, `find . -name '*.DS_Store'`.
+* You can also search for specific files with the `find` command. For example, `find . -name '*.DS_Store'`. The `find` command needs a starting point, that's why there's a `.` in the command, so that it starts searching in the current directory.
 * And you can chain that command with other commands, like here: `find . -name '*.DS_Store' -exec mv -v {} 00_DS_Store \;` chaining it with the move command.
