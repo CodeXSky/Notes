@@ -63,7 +63,7 @@ ON green_trips
 USING gist
 (the_geom );
 ```
-* Then you need to actually copy the csv file into the table. In the database do: `\copy table_name(field1,field2,field3,etc,etc) FROM `path/to/file.csv` DELIMITERS ',' CSV HEADER`.
+* Then you need to actually copy the csv file into the table. In the database do: `\copy table_name(field1,field2,field3,etc,etc) FROM 'path/to/file.csv' DELIMITERS ',' CSV HEADER;`.
 * You can check that the file was imported by printing some of the columns: `SELECT column_name FROM table_name;`.
 * The last step is to populate the geometry field based on the lat and lon:
 ```sql
