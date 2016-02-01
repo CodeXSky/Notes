@@ -12,6 +12,7 @@ The instructions here follow the ones outlined by Dennis Tenen [here](https://gi
 The instructions here are divided between "Local", "AWS Console" and "Remote". "Local" means from your local user (usually in a Terminal window); and "remote" means once you've successfully logged into your instance, as a remote user.
 * (Local) To log in to your AWS instance use `ssh -vi path/to/key.pem ec2-user@ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com`.
 * (Local) If your server is Ubuntu (as opposed to Linux) you should login using `ubuntu@ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com` instead of `ec2-user`.
+* You might get a warning that your key permissions are open to everyone. To change your permissions do: `chmod 600 ~/path/to/key.pem`
 
 ### Creating New Users
 * (Remote) Once you're logged into your instance, you can create new users and groups. To add a user do `sudo adduser username`.
@@ -27,10 +28,13 @@ The instructions here are divided between "Local", "AWS Console" and "Remote". "
 * Finally, put your user in the `wheel` group using `usermod -aG wheel username`.
 * To test if your user did get sudo permissions, switch to that user with `su username` and type `groups`. Your user should group should be `wheel`. And you can use the `sudo whoami` command and verify that you are `root`.
 * A more detailed explanation of these last steps can be found [here](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/2/html/Getting_Started_Guide/ch02s03.html).
-* If you are working in an Ubuntu system you only need to do this `sudo usermod -a -G sudo hduser` where `hduser` is the user you want to grand sudo privileges.
+* If you are working in an Ubuntu system you only need to do this `sudo usermod -a -G sudo hduser` where `hduser` is the user you want to grant sudo privileges.
 
 ### Accessing Instance Without Key
 * To access instance without key (with id and password only) edit the `/etc/ssh/sshd_config` file and set `PasswordAuthentication yes`. To do this, however, you need to be working as the root user.
 * Change to the root user by `sudo -s` and you can edit the file with Nano.
 
 * After all these changes you should reboot your instance with `sudo reboot`.
+
+* Finally you can do an upgrade:
+  * (Remote): run `sudo aptitude update` follwed by `sudo aptitude dist-upgrade`.
