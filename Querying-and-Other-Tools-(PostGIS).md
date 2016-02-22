@@ -10,6 +10,7 @@ Here are some examples of queries and other useful commands.
 * List all databases with `\l`. Or list with description and size (disk usage): `\l+`
 * List all databases outside Postgresql: `psql -l`
 * List all tables and their size: `\d+`
+* List first n records in a table: `SELECT column (or *) FROM table LIMIT n`
 * Deleting database: `drop database database_name;`
 * Show location of database: `show data_directory;`
 * Removing a constraint so you can reproject:
@@ -37,3 +38,6 @@ create table temp_results as
 select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(t.credit) as sum_credit from nynta as n, green_trips as t where st_intersects(t.the_geom,n.geom) group by n.ntaname;
 ```
 * Exporting to csv: `copy temp_results to 'path/to/file.csv' delimiter ',' csv header;`
+
+### Drop table
+* `drop table tableName;`

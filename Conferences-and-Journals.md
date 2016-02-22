@@ -18,6 +18,9 @@
 * [ACSA (Association of Collegiate Schools of Architecture)](http://www.acsa-arch.org/programs-events/conferences):
   * March 17-19, 2016, Seattle
   * Calls for papers and projects
+* [13th Pascal International Conference](http://conference2016.pascalobservatory.org/conference-2016/calls)
+  * Abstract deadline February 22
+  * June 3 - 5, Glasgow
 
 ### Journals
 * Cartography:
