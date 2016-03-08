@@ -26,6 +26,8 @@ Use [Homebrew](http://brew.sh/) to intall both:
 * Drop a database: `dropdb database_name`.
 * Delete a postgresql cluster: `rm -rf /usr/local/var/postgres/`.
 * List all tables in database: `\dt`.
+* List all databases (from terminal prompt): `psql -l`
+* List all previous commands (history): `\s`
 
 ### Useful links
 * Find the SRID number [here](http://prj2epsg.org/search) by copying the text of the .prj file. You can do the reverse [here](http://www.epsg-registry.org/).
