@@ -50,6 +50,7 @@
   * [Avery Review](http://www.averyreview.com/)
   * [ARPA Journal](http://www.arpajournal.net/)
   * [Volume](http://volumeproject.org/)
+  * [Places](https://placesjournal.org/explore-places/)
 * Planning:
   * [Public Works Management & Policy](http://pwm.sagepub.com/)
   * [Regional Environmental Change Journal](https://www.springer.com/environment/global+change+-+climate+change/journal/10113)
@@ -63,6 +64,7 @@
   * [Plos One](http://www.plosone.org/)
   * [I/S: A Journal of Law and Policy for the Information Society](http://moritzlaw.osu.edu/students/groups/is/)
   * [Journal of Digital Media Literacy](http://www.jodml.org/)
+  * [Public Journal](http://www.thisispublicjournal.com/)
 
 ### Books
 * [NACIS Atlas of Design](http://atlasofdesign.org/)
