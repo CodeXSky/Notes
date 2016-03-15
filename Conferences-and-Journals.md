@@ -29,6 +29,7 @@
   * [Journal of Geographical Systems](https://www.springer.com/economics/regional+science/journal/10109)
   * [Annals of the Association of American Geographers](http://www.aag.org/cs/publications/journals/annals)
   * [Journal of Economic Geography](http://joeg.oxfordjournals.org/)
+  * [Antipode - A Radical Journal of Geography](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8330)
 * Computer Science:
   * [Computers Environment and Urban Systems](http://www.journals.elsevier.com/computers-environment-and-urban-systems/)
   * [ACM Transaction on Intelligent Systems and Technology](http://tist.acm.org/index.php)
@@ -65,6 +66,7 @@
   * [I/S: A Journal of Law and Policy for the Information Society](http://moritzlaw.osu.edu/students/groups/is/)
   * [Journal of Digital Media Literacy](http://www.jodml.org/)
   * [Public Journal](http://www.thisispublicjournal.com/)
+  * [Public Culture](http://publicculture.org/)
 
 ### Books
 * [NACIS Atlas of Design](http://atlasofdesign.org/)
