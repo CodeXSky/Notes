@@ -10,6 +10,7 @@ Here are some examples of queries and other useful commands.
 * List all databases with `\l`. Or list with description and size (disk usage): `\l+`
 * List all databases outside Postgresql: `psql -l`
 * List all tables and their size: `\d+`
+* Viewing database size (inside psql): `SELECT pg_size_pretty(pg_database_size('dbname'));`
 * List first n records in a table: `SELECT column (or *) FROM table LIMIT n`
 * Deleting database: `drop database database_name;`
 * Show location of database: `show data_directory;`
