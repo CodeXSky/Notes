@@ -20,3 +20,6 @@
 
 ### Miscellaneous
 * try this sometime `telnet towel.blinkenlights.nl`
+
+### Monitor activity
+* `top -o cpu -s 2 -i 5` will show the top processes ordered by cpu usage (`o`), refreshed every 2 seconds (`-s 2`) using 5 second intervals (`-i 5`)
