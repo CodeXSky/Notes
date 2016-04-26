@@ -21,6 +21,7 @@
 * [13th Pascal International Conference](http://conference2016.pascalobservatory.org/conference-2016/calls)
   * Abstract deadline February 22
   * June 3 - 5, Glasgow
+* [Association of Collegiate Schools of Planning](http://www.acsp.org/)
 
 ### Journals
 * Cartography:
@@ -52,6 +53,8 @@
   * [ARPA Journal](http://www.arpajournal.net/)
   * [Volume](http://volumeproject.org/)
   * [Places](https://placesjournal.org/explore-places/)
+  * [Log](http://www.anycorp.com/log/submissions):
+    * Log 38: Monday, June 6th
 * Planning:
   * [Public Works Management & Policy](http://pwm.sagepub.com/)
   * [Regional Environmental Change Journal](https://www.springer.com/environment/global+change+-+climate+change/journal/10113)
