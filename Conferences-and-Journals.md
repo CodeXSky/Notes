@@ -22,6 +22,7 @@
   * Abstract deadline February 22
   * June 3 - 5, Glasgow
 * [Association of Collegiate Schools of Planning](http://www.acsp.org/)
+* [csvconf](http://csvconf.com/)
 
 ### Journals
 * Cartography:

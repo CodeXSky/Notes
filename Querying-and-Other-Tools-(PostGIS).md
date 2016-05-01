@@ -12,7 +12,7 @@ Here are some examples of queries and other useful commands.
 * List all tables and their size: `\d+`
 * Viewing database size (inside psql): `SELECT pg_size_pretty(pg_database_size('dbname'));`
 * List first n records in a table: `SELECT column (or *) FROM table LIMIT n`
-* Deleting database: `drop database database_name;`
+* Deleting database: `drop database database_name;` or from the command line directly: `dropdb database_name`.
 * Show location of database: `show data_directory;`
 * Removing a constraint so you can reproject:
 ```sql
