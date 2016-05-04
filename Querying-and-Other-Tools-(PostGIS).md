@@ -27,6 +27,7 @@ using st_transform(the_geom,2263);
 ```
 * Print SRDI (limit to 1 row): `select st_srid(geom) from nynta limit 1;`
 * To delete a specific record do: `delete from only table_name where condition returning *;`
+* Rename table: `ALTER TABLE old_table_name RENAME to new_table_name;`
 
 ### Viewing database data in QGIS
 * Right-click on PostGIS (Browser panel) and set up a new connection.
@@ -40,6 +41,7 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 ```
 * Exporting to csv: `copy temp_results to 'path/to/file.csv' delimiter ',' csv header;`
 * Example of query: `copy (select od_pair, count(od_pair), date_trunc('year', f_ocurrencia_hecho) as year from crimes where param_hecho = 5 group by od_pair, year) to '/Users/juansaldarriaga/Google_Drive/01_SIDL/02_SIDL_Projects/1507_Victims_and_Displacement_Colombia/02_Data/02_Processed_Data/1603/OD_Pair_All_Years.csv';`
+* Export table to shapefile (from outside postgres): `pgsql2shp -f "path/to/shapefile.shp" database_name table_name`
 
 ### Drop table
 * `drop table tableName;`
