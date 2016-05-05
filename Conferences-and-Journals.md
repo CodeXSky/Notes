@@ -26,7 +26,7 @@
 
 ### Journals
 * Cartography:
-  * [Journal of Maps](http://www.journalofmaps.com/)
+  * [Journal of Maps](http://www.journalofmaps.com/) - UK
   * [Journal of Transport Geography](http://www.journals.elsevier.com/journal-of-transport-geography/)
   * [Journal of Geographical Systems](https://www.springer.com/economics/regional+science/journal/10109)
   * [Annals of the Association of American Geographers](http://www.aag.org/cs/publications/journals/annals)
@@ -57,6 +57,8 @@
   * [Log](http://www.anycorp.com/log/submissions):
     * Log 38: Monday, June 6th
 * Planning:
+  * [Wikipedia list](https://en.wikipedia.org/wiki/List_of_planning_journals)
+  * [Journal Rankings (SJR)](http://www.scimagojr.com/journalrank.php?category=3322)
   * [Public Works Management & Policy](http://pwm.sagepub.com/)
   * [Regional Environmental Change Journal](https://www.springer.com/environment/global+change+-+climate+change/journal/10113)
   * [Journal of the American Planning Association](https://www.planning.org/japa/)
