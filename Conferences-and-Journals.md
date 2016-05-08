@@ -32,6 +32,7 @@
   * [Annals of the Association of American Geographers](http://www.aag.org/cs/publications/journals/annals)
   * [Journal of Economic Geography](http://joeg.oxfordjournals.org/)
   * [Antipode - A Radical Journal of Geography](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8330)
+  * [Cartographic Perspectives](http://www.cartographicperspectives.org/index.php/journal)
 * Computer Science:
   * [Computers Environment and Urban Systems](http://www.journals.elsevier.com/computers-environment-and-urban-systems/)
   * [ACM Transaction on Intelligent Systems and Technology](http://tist.acm.org/index.php)
@@ -76,3 +77,6 @@
 
 ### Books
 * [NACIS Atlas of Design](http://atlasofdesign.org/)
+
+### Fellowships
+* [Data & Society](http://www.datasociety.net/initiatives/fellows-program/)
