@@ -30,5 +30,8 @@
 * Conferences:
   * [IFSTTAR](http://www.comeetie.fr/pdfrepos/Programme-workshop2014.pdf)
   * [Columbia Data Science Society](http://cdssatcu.com/)
+  * [Art of the Demo: Activity Mapping](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be)
 * MArch Work:
   * [New Territories](http://www.new-territories.com/blog/gsapp2011/)
+* Environmental Costs of Spatial Regulation of Taxicabs:
+  * [Transportation Informatics University Transportation Center](https://www.buffalo.edu/transinfo/Events/2016Symposium.html)
