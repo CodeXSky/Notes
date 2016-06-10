@@ -45,3 +45,6 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 
 ### Drop table
 * `drop table tableName;`
+
+### Change date (timestamp) format
+* `SET datestyle TO "ISO, DMY";` or any other combination (MYD, YMD, etc)
