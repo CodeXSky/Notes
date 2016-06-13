@@ -43,3 +43,5 @@
   * [New Territories](http://www.new-territories.com/blog/gsapp2011/)
 * Environmental Costs of Spatial Regulation of Taxicabs:
   * [Transportation Informatics University Transportation Center](https://www.buffalo.edu/transinfo/Events/2016Symposium.html)
+* Science Surveyor:
+  * [Neiman Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/)
