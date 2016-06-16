@@ -1,14 +1,17 @@
 ### CV, Links and Publications (in progres...)
 ## CV
-### Education
+### EDUCATION
 * **Columbia University, Graduate School of Architecture, Planning and Preservation, New York, NY** - *Masters in Architecture (2012)*
 * **Columbia University, Graduate School of Architecture, Planning and Preservation, New York, NY** - *Masters of Science in Urban Planning (2008)*
 * **Universidad de Los Andes, Bogotá, Colombia** - *Bachelors of Arts in Philosophy (2004)*
 * **Université de Paris IV, Sorbonne, Paris** - *1st Year of Deug in Philosophy (1999)*
 
-### Appointments
+### APPOINTMENTS
 * **Mellon Associate Research Scholar** - *[Center for Spatial Research](http://c4sr.columbia.edu/), Columbia University, New York, NY (2015 - Present)*
 * **Adjunct Assistant Professor** - *[Graduate School of Architecture, Planning and Preservation](http://www.arch.columbia.edu/), Columbia University, New York, NY (2013 - Present)*
+* **Associate Research Scholar** - *[Spatial Information Design Lab](http://spatialinformationdesignlab.org/), Columbia University, New York, NY (2013 - 2015)*
+* **Architectural Designer** - *[Carlos Zapata Studio](http://www.cz-studio.com/), New York, NY (2012 - 2013)*
+* **GIS Project Coordinator** - *[Catholic Charities, Archdioceses of New York](http://catholiccharitiesny.org/), New York, NY (2009)*
 
 ## Publications
 ## References
