@@ -12,9 +12,10 @@
 * **GIS Project Coordinator** - *[Catholic Charities, Archdioceses of New York](http://catholiccharitiesny.org/), New York, NY (2009)*
 
 #### Projects and Publications
-* **Conflict Urbanism: Colombia** - An interactive mapping and spatial analysis project examining the Colombian conflict and its effect in the urban environment. Kurgan, L., Saldarriaga, J., Rettberg, A. [(in progress)](http://c4sr.columbia.edu/projects/conflict-urbanism-colombia).
-* **Science Surveyor - Context on Deadline** - An interactive application providing context information for science journalists on a deadline. Holloway, M., Tenen, D., Kurgan, L., Jurafsky, D., McFarland, D., Saldarriaga, J., Basic, G. [(in progress)](https://science-surveyor.github.io/).
-* **The Haven Project - Metrics** - An interactive data visualization project analyzing health and environmental metrics for New York City. Kurgan, L., Saldarriaga, J., Izen, J., New York Restoration Project, 2015. URL: http://spatialinformationdesignlab.org/project_sites/the-haven-project/
+* **[Conflict Urbanism: Colombia]((http://c4sr.columbia.edu/projects/conflict-urbanism-colombia)** - An interactive mapping and spatial analysis project examining the Colombian conflict and its effect in the urban environment. Kurgan, L., Saldarriaga, J., Rettberg, A. (in progress).
+* **[Science Surveyor - Context on Deadline](https://science-surveyor.github.io/)** - An interactive application providing context information for science journalists on a deadline. Holloway, M., Tenen, D., Kurgan, L., Jurafsky, D., McFarland, D., Saldarriaga, J., Basic, G. (in progress).
+* **[The Haven Project - Metrics](http://spatialinformationdesignlab.org/project_sites/the-haven-project/)** - An interactive data visualization project analyzing health and environmental metrics for New York City. Kurgan, L., Saldarriaga, J., Izen, J., New York Restoration Project, 2015.
+
 #### References
 * Here Now!:
   * The Cartographic Journal, Vol. 50, No. 1, pp. 98 - 102, February 2013. [Book and Atlas Review](http://www.tandfonline.com/doi/full/10.1179/0008704112Z.00000000048)
