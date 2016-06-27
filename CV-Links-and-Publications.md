@@ -40,7 +40,7 @@
 * **[Activity Mapping - Art of Data Visualization](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be)** Lecture and workshop for the [Art of Data Visualization Conference](http://library.columbia.edu/news/events/data-visualization/dv_program.html) at Columbia University, New York, 2016.
 * **Patterns & Arguments and Activity Mapping** - Lectures for the Urban Design Event Series at Columbia University, New York, 2014 and 2015.
 * **[The Uncertainties of Data](https://vimeo.com/90226947)** - Lecture for the City As Resource Lecture Series, Zürcher Hochschule der Künste, Zürich, 2014.
-* **Visualizing New York’s Citibikes: Imbalances, Social Justice Issues And Its Interaction With Other Modes of Transportation** - Lecture for the [International Workshop in Data Analytics and Visualization in Transport]((http://www.comeetie.fr/pdfrepos/Programme-workshop2014.pdf), IFSTTAR, Paris, 2014.
+* **Visualizing New York’s Citibikes: Imbalances, Social Justice Issues And Its Interaction With Other Modes of Transportation** - Lecture for the [International Workshop in Data Analytics and Visualization in Transport](http://www.comeetie.fr/pdfrepos/Programme-workshop2014.pdf), IFSTTAR, Paris, 2014.
 * **[Science Surveyor - Context On Deadline](http://brown.columbia.edu/magic)** - Brown Institute for Media Innovation Flagship Project 2015-2016 and recipient of the Brown Institute for Media Innovation 2014-2015 Magic Grant.
 * **Visual Studies Honor Award** - Emphasis on Data Visualization, Columbia University, New York, 2012.
 * **Here Now! Social Media and the Psychological City** - Exhibited at Columbia University and Studio X, New York, 2011; Digitas, New York, 2012; Get It Louder, Beijing, 2013; and BRIC Arts and Media House, New York, 2015.
