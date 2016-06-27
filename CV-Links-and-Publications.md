@@ -15,9 +15,17 @@
 * **[Conflict Urbanism: Colombia](http://c4sr.columbia.edu/projects/conflict-urbanism-colombia)** - An interactive mapping and spatial analysis project examining the Colombian conflict and its effect in the urban environment. Kurgan, L., Saldarriaga, J., Rettberg, A. (in progress).
 * **[Science Surveyor - Context on Deadline](https://science-surveyor.github.io/)** - An interactive application providing context information for science journalists on a deadline. Holloway, M., Tenen, D., Kurgan, L., Jurafsky, D., McFarland, D., Saldarriaga, J., Basic, G. (in progress).
 * **[Access to Taxicabs for Unbanked Households: An Exploratory Analysis in New York City](http://c4sr.columbia.edu/projects/banking-divide-taxi-access-evidence-new-york-city)**. Saldarriaga, J., King, D. Presented at the ACSP 2016 56th Annual Conference, Portland, Oregon, 2016.
+* **Environmental Costs of Spatial Regulation of Taxicabs** - Saldarriaga, J., King, D., presented at the [Second Annual Symposium on Transportation Informatics](Environmental Costs of Spatial Regulation of Taxicabs), George Mason University, Arlington, Virginia, 2016.
 * **[The Haven Project - Metrics](http://spatialinformationdesignlab.org/project_sites/the-haven-project/)** - An interactive data visualization project analyzing health and environmental metrics for New York City. Kurgan, L., Saldarriaga, J., Izen, J., New York Restoration Project, 2015.
 * **[Citibike Station Imbalances & Citibike Rides](http://c4sr.columbia.edu/projects/citibike-rebalancing-study)** - Data visualization and mapping projects studying Citibike usage, activity data and station imbalances. Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., 2014. Featured in [The New York Times](http://cityroom.blogs.nytimes.com/2014/03/31/by-plotting-journeys-providing-a-glimpse-at-citi-bike-ridership/?_r=0), [The Washington Post](https://www.washingtonpost.com/blogs/wonkblog/wp/2014/06/25/the-ultimate-riddle-of-supply-and-demand-bikeshare), and [The Atlantic Citilab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/).
 * **[Port to Port](http://spatialinformationdesignlab.org/project_sites/port_to_port/)** - An interactive data visualization and mappin analysis of 6 years of oil shipment routes to and from U.S. ports. Kurgan, L., Saldarriaga, J., Berner, A., Murray., S., 2014.
+* **[Here Now! Social Media And The Psychological City](http://c4sr.columbia.edu/projects/here-now-social-media-and-psychological-city)** - Data visualization and mapping project studying social median check-ins in New York City. Williams, S., Saldarriaga, J., Bullen, G., Tan, F., Youse, N., 2011. Featured in [NACIS Atlas of Design (2012)](http://atlasofdesign.org/2012/08/23/a-preview-of-the-selections/), [The Sage Handbook of Human Geography, Volume 1, 2014, pp. 244.](https://books.google.com/books?hl=en&lr=&id=6SLpAwAAQBAJ&oi=fnd&pg=PP1&dq=%22juan+francisco+saldarriaga%22&ots=vq9Ag8_Ez2&sig=ER_-I_13o8GdStr-j8ev0UdUc8s#v=onepage&q=%22juan%20francisco%20saldarriaga%22&f=false), and [ArchDaily](http://www.archdaily.com/222024/here-now-spatial-information-design-lab-columbia-university).
+* **[NYC Taxi Activity](http://cargocollective.com/juanfrans/NYC-TAXI-ACTIVITY)** - Data visualization animations illustrating movement and imbalance patterns in New York City taxicabs. Saldarriaga, J., King, D., Peters, J., 2014. Featured in [The Atlantic CityLab](http://www.citylab.com/commute/2012/02/taxis-part-transit-system/1133/) and [The Atlantic Video](http://www.theatlantic.com/video/index/253385/visualizing-the-paths-of-10-000-taxi-rides-across-manhattan/).
+* **Where Were Bike Share Trips Before Bike Share? Evidence From New York City** - King, D., Saldarriaga, J., 2015. Presented at the 95th Annual Meeting of the Transportation Research Board, Washington D.C., 2016.
+* **Modeling Social Justice Issues in Urban Zones Using Big Data: Evidence from Bikeshare and Taxicab Data** - King, D., Peters, J., Davidson, A., Saldarriaga, J., in [Proceedings of the Workshop on Big Data And Urban Informatics](https://dl.dropboxusercontent.com/u/35674979/CFP/proceedings/bduic2014_submission_57.pdf), sponsored by the National Science Foundation, University of Illinois at Chicago, 2014.
+* **[NYC 2040: Housing The Next One Million New Yorkers](https://www.amazon.com/NYC-2040-Housing-Million-Yorkers/dp/1883584884)** - Keenan, J., Chakrabarti, V., 2013 (Computational Simulation & Design: Saldarriaga, J.).
+* **[Policy Brief: A History of The FAR Limitation Under The New York Multiple Dwelling Law](https://www.academia.edu/10511768/Policy_Brief_A_History_of_the_FAR_Limitation_Under_the_New_York_Multiple_Dwelling_Law)** Keenan, J., King, C., 2015 (Geospatial Information Systems Mapping: Saldarriaga, J.).
+* **[Bicycle Commuting And Its Relation To Infrastructure And Demographics: New York City, 1990 - 2000](https://clio.columbia.edu/catalog/7008600?counter=1)** - Masters of Urban Planning Thesis, Saldarriaga, J., Columbia University, 2008.
 
 #### References
 * Here Now!:
@@ -37,8 +45,6 @@
   * [YellowCabNYC.com](https://www.yellowcabnyctaxi.com/nyc-taxi/york-cab-traffic-creates-surprisingly-accurate-map-city)
   * [The Atlantic CityLab](http://www.citylab.com/commute/2012/02/taxis-part-transit-system/1133/)
   * [City Breaths](http://citybreaths.com/page/10)
-
-
 * Citibike Visualizations:
   * [FastCo](https://www.fastcodesign.com/3028485/slicker-city/what-a-day-in-the-life-of-citi-bike-looks-like)
   * [ArchDaily Portuguese](http://www.archdaily.com.br/br/601407/bicicletas-publicas-de-ny-primeiras-avaliacoes-apos-um-ano-de-funcionamento)
@@ -50,8 +56,6 @@
   * [The Atlantic Citilab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/)
   * [Streetsblog NYC](http://www.streetsblog.org/2014/03/31/new-citi-bike-data-on-individual-trips-shows-how-bike-share-links-to-transit/)
   * [Streetsblog NYC](http://www.streetsblog.org/2014/06/30/the-science-and-maps-behind-finding-available-citi-bikes-and-docks/)
-
-
 * Exit:
   * [BMIAA](http://www.bmiaa.com/exit-by-diller-scofidio-renfro-at-palais-de-tokyo/)
 * Science Surveyor:
