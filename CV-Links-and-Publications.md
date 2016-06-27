@@ -27,6 +27,24 @@
 * **[Policy Brief: A History of The FAR Limitation Under The New York Multiple Dwelling Law](https://www.academia.edu/10511768/Policy_Brief_A_History_of_the_FAR_Limitation_Under_the_New_York_Multiple_Dwelling_Law)** Keenan, J., King, C., 2015 (Geospatial Information Systems Mapping: Saldarriaga, J.).
 * **[Bicycle Commuting And Its Relation To Infrastructure And Demographics: New York City, 1990 - 2000](https://clio.columbia.edu/catalog/7008600?counter=1)** - Masters of Urban Planning Thesis, Saldarriaga, J., Columbia University, 2008.
 
+#### Teaching and Other Activities
+* **[Mapping for Architecture, Urbanism and the Humanities](https://github.com/juanfrans-courses/mapping_arch_hum/blob/master/Spring_2016/Syllabus.md)** - An interdisciplinary introductory mapping course combining methods and topics fro architecture, urbanism and the humanities. Part of the Center for Spatial Research Mellon Grant on Conflict Urbanism, spring and fall 2016.
+* **[Advanced GIS](https://github.com/juanfrans-courses/advanced-gis/blob/master/Fall_2015/Syllabus.md)** - Urban Planning graduate seminar in advanced techniques and methods in geographic information systems, spring 2014, spring 2015 and fall 2015.
+* **Open Cartographies** - Architecture graduate course exploring new techniques in mapping, web-mapping and data visualization, fall 2014.
+* **[EPIC - Geographic Information Systems](http://cuepisummer.org/)** - GIS course for the Epidemiology and Population Health Summer Institute at the Mailman School of Public Health, Columbia University, summer 2015.
+* Member of the **[Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/)** at Columbia University.
+* I maintain, support and update the Geographic Information Systems Database for the Graduate School of Architecture, Planning and Preservation at Columbia University, 2013 - present.
+
+#### Lectures, Exhibitions, Grants and Awards
+* **Activity Mapping - Columbia Data Science Society** - Lecture for the Columbia Data Science Society students at Columbia University, New York, 2016.
+* **[Activity Mapping - Art of Data Visualization](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be)** Lecture and workshop for the [Art of Data Visualization Conference](http://library.columbia.edu/news/events/data-visualization/dv_program.html) at Columbia University, New York, 2016.
+* **Patterns & Arguments and Activity Mapping** - Lectures for the Urban Design Event Series at Columbia University, New York, 2014 and 2015.
+* **[The Uncertainties of Data](https://vimeo.com/90226947)** - Lecture for the City As Resource Lecture Series, Zürcher Hochschule der Künste, Zürich, 2014.
+* **Visualizing New York’s Citibikes: Imbalances, Social Justice Issues And Its Interaction With Other Modes of Transportation** - Lecture for the [International Workshop in Data Analytics and Visualization in Transport]((http://www.comeetie.fr/pdfrepos/Programme-workshop2014.pdf), IFSTTAR, Paris, 2014.
+* **[Science Surveyor - Context On Deadline](http://brown.columbia.edu/magic)** - Brown Institute for Media Innovation Flagship Project 2015-2016 and recipient of the Brown Institute for Media Innovation 2014-2015 Magic Grant.
+* **Visual Studies Honor Award** - Emphasis on Data Visualization, Columbia University, New York, 2012.
+* **Here Now! Social Media and the Psychological City** - Exhibited at Columbia University and Studio X, New York, 2011; Digitas, New York, 2012; Get It Louder, Beijing, 2013; and BRIC Arts and Media House, New York, 2015.
+
 #### References
 * Here Now!:
   * The Cartographic Journal, Vol. 50, No. 1, pp. 98 - 102, February 2013. [Book and Atlas Review](http://www.tandfonline.com/doi/full/10.1179/0008704112Z.00000000048)
