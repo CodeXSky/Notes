@@ -14,7 +14,10 @@
 #### Projects and Publications
 * **[Conflict Urbanism: Colombia](http://c4sr.columbia.edu/projects/conflict-urbanism-colombia)** - An interactive mapping and spatial analysis project examining the Colombian conflict and its effect in the urban environment. Kurgan, L., Saldarriaga, J., Rettberg, A. (in progress).
 * **[Science Surveyor - Context on Deadline](https://science-surveyor.github.io/)** - An interactive application providing context information for science journalists on a deadline. Holloway, M., Tenen, D., Kurgan, L., Jurafsky, D., McFarland, D., Saldarriaga, J., Basic, G. (in progress).
+* **[Access to Taxicabs for Unbanked Households: An Exploratory Analysis in New York City](http://c4sr.columbia.edu/projects/banking-divide-taxi-access-evidence-new-york-city)**. Saldarriaga, J., King, D. Presented at the ACSP 2016 56th Annual Conference, Portland, Oregon, 2016.
 * **[The Haven Project - Metrics](http://spatialinformationdesignlab.org/project_sites/the-haven-project/)** - An interactive data visualization project analyzing health and environmental metrics for New York City. Kurgan, L., Saldarriaga, J., Izen, J., New York Restoration Project, 2015.
+* **[Citibike Station Imbalances & Citibike Rides](http://c4sr.columbia.edu/projects/citibike-rebalancing-study)** - Data visualization and mapping projects studying Citibike usage, activity data and station imbalances. Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., 2014. Featured in [The New York Times](http://cityroom.blogs.nytimes.com/2014/03/31/by-plotting-journeys-providing-a-glimpse-at-citi-bike-ridership/?_r=0), [The Washington Post](https://www.washingtonpost.com/blogs/wonkblog/wp/2014/06/25/the-ultimate-riddle-of-supply-and-demand-bikeshare), and [The Atlantic Citilab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/).
+* **[Port to Port](http://spatialinformationdesignlab.org/project_sites/port_to_port/) - An interactive data visualization and mappin analysis of 6 years of oil shipment routes to and from U.S. ports. Kurgan, L., Saldarriaga, J., Berner, A., Murray., S., 2014.
 
 #### References
 * Here Now!:
@@ -34,6 +37,8 @@
   * [YellowCabNYC.com](https://www.yellowcabnyctaxi.com/nyc-taxi/york-cab-traffic-creates-surprisingly-accurate-map-city)
   * [The Atlantic CityLab](http://www.citylab.com/commute/2012/02/taxis-part-transit-system/1133/)
   * [City Breaths](http://citybreaths.com/page/10)
+
+
 * Citibike Visualizations:
   * [FastCo](https://www.fastcodesign.com/3028485/slicker-city/what-a-day-in-the-life-of-citi-bike-looks-like)
   * [ArchDaily Portuguese](http://www.archdaily.com.br/br/601407/bicicletas-publicas-de-ny-primeiras-avaliacoes-apos-um-ano-de-funcionamento)
@@ -45,6 +50,8 @@
   * [The Atlantic Citilab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/)
   * [Streetsblog NYC](http://www.streetsblog.org/2014/03/31/new-citi-bike-data-on-individual-trips-shows-how-bike-share-links-to-transit/)
   * [Streetsblog NYC](http://www.streetsblog.org/2014/06/30/the-science-and-maps-behind-finding-available-citi-bikes-and-docks/)
+
+
 * Exit:
   * [BMIAA](http://www.bmiaa.com/exit-by-diller-scofidio-renfro-at-palais-de-tokyo/)
 * Science Surveyor:
