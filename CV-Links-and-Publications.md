@@ -63,6 +63,7 @@
   * [YellowCabNYC.com](https://www.yellowcabnyctaxi.com/nyc-taxi/york-cab-traffic-creates-surprisingly-accurate-map-city)
   * [The Atlantic CityLab](http://www.citylab.com/commute/2012/02/taxis-part-transit-system/1133/)
   * [City Breaths](http://citybreaths.com/page/10)
+  * [Slate.fr](https://www.slate.fr/story/89883/data-24-heures-taxi-new-york)
 * Citibike Visualizations:
   * [FastCo](https://www.fastcodesign.com/3028485/slicker-city/what-a-day-in-the-life-of-citi-bike-looks-like)
   * [ArchDaily Portuguese](http://www.archdaily.com.br/br/601407/bicicletas-publicas-de-ny-primeiras-avaliacoes-apos-um-ano-de-funcionamento)
@@ -89,3 +90,4 @@
   * [Transportation Informatics University Transportation Center](https://www.buffalo.edu/transinfo/Events/2016Symposium.html)
 * Science Surveyor:
   * [Neiman Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/)
+* [Sharing Models - Manhattanisms](http://storefrontnews.org/programming/sharing-models-manhattanisms/)

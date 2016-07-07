@@ -48,3 +48,9 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 
 ### Change date (timestamp) format
 * `SET datestyle TO "ISO, DMY";` or any other combination (MYD, YMD, etc)
+
+### Renaming a table
+* `alter table tableName rename to newTableName;`
+
+### Joining data from two tables
+* There are multiple types of joins but the normal one is `SELECT * FROM weather LEFT OUTER JOIN cities ON (weather.city = cities.name);`
