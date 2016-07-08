@@ -54,3 +54,8 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 
 ### Joining data from two tables
 * There are multiple types of joins but the normal one is `SELECT * FROM weather LEFT OUTER JOIN cities ON (weather.city = cities.name);`
+* [Join Tutorial](http://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm)
+
+### Adding and updating column
+* `Alter table tableName add column columnName dataType;`
+* `Update tableName set columnName = ST_Distance_Sphere(tableName.geom, tableName2.geom);`
