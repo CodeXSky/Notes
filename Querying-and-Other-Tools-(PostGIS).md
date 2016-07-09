@@ -59,3 +59,4 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 ### Adding and updating column
 * `Alter table tableName add column columnName dataType;`
 * `Update tableName set columnName = ST_Distance_Sphere(tableName.geom, tableName2.geom);`
+* `Update tableName set columnName = date(columnName) - date(columnName);`: produces an `int`.
