@@ -15,7 +15,7 @@
 * **[Conflict Urbanism: Colombia](http://c4sr.columbia.edu/projects/conflict-urbanism-colombia)** - An interactive mapping and spatial analysis project examining the Colombian conflict and its effect in the urban environment. Kurgan, L., Saldarriaga, J., Rettberg, A. (in progress).
 * **[Science Surveyor - Context on Deadline](https://science-surveyor.github.io/)** - An interactive application providing context information for science journalists on a deadline. Holloway, M., Tenen, D., Kurgan, L., Jurafsky, D., McFarland, D., Saldarriaga, J., Basic, G. (in progress).
 * **[Access to Taxicabs for Unbanked Households: An Exploratory Analysis in New York City](http://c4sr.columbia.edu/projects/banking-divide-taxi-access-evidence-new-york-city)**. Saldarriaga, J., King, D. Presented at the ACSP 2016 56th Annual Conference, Portland, Oregon, 2016.
-* **Environmental Costs of Spatial Regulation of Taxicabs** - Saldarriaga, J., King, D., presented at the [Second Annual Symposium on Transportation Informatics](Environmental Costs of Spatial Regulation of Taxicabs), George Mason University, Arlington, Virginia, 2016.
+* **Environmental Costs of Spatial Regulation of Taxicabs** - Saldarriaga, J., King, D. (in progress).
 * **[The Haven Project - Metrics](http://spatialinformationdesignlab.org/project_sites/the-haven-project/)** - An interactive data visualization project analyzing health and environmental metrics for New York City. Kurgan, L., Saldarriaga, J., Izen, J., New York Restoration Project, 2015.
 * **[Citibike Station Imbalances & Citibike Rides](http://c4sr.columbia.edu/projects/citibike-rebalancing-study)** - Data visualization and mapping projects studying Citibike usage, activity data and station imbalances. Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., 2014. Featured in [The New York Times](http://cityroom.blogs.nytimes.com/2014/03/31/by-plotting-journeys-providing-a-glimpse-at-citi-bike-ridership/?_r=0), [The Washington Post](https://www.washingtonpost.com/blogs/wonkblog/wp/2014/06/25/the-ultimate-riddle-of-supply-and-demand-bikeshare), and [The Atlantic Citilab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/).
 * **[Port to Port](http://spatialinformationdesignlab.org/project_sites/port_to_port/)** - An interactive data visualization and mappin analysis of 6 years of oil shipment routes to and from U.S. ports. Kurgan, L., Saldarriaga, J., Berner, A., Murray., S., 2014.
@@ -86,8 +86,6 @@
   * [Art of the Demo: Activity Mapping](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be)
 * MArch Work:
   * [New Territories](http://www.new-territories.com/blog/gsapp2011/)
-* Environmental Costs of Spatial Regulation of Taxicabs:
-  * [Transportation Informatics University Transportation Center](https://www.buffalo.edu/transinfo/Events/2016Symposium.html)
 * Science Surveyor:
   * [Neiman Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/)
 * [Sharing Models - Manhattanisms](http://storefrontnews.org/programming/sharing-models-manhattanisms/)
