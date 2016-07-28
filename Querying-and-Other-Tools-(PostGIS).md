@@ -27,7 +27,6 @@ using st_transform(the_geom,2263);
 ```
 * Print SRDI (limit to 1 row): `select st_srid(geom) from nynta limit 1;`
 * To delete a specific record do: `delete from only table_name where condition returning *;`
-* Rename table: `ALTER TABLE old_table_name RENAME to new_table_name;`
 
 ### Viewing database data in QGIS
 * Right-click on PostGIS (Browser panel) and set up a new connection.
