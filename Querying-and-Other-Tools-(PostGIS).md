@@ -56,6 +56,9 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 * [Join Tutorial](https://www.postgresql.org/docs/8.3/static/tutorial-join.html)
 * [Join Tutorial](http://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm)
 
+### Spatial Join
+* Here's an example of a spatial join into a new table: `create table grid_yellow as select grid.gid as gid, count(yellow.vendorid) as total, grid.geom as geom from grid_200_all_data as grid, yellowdestinations as yellow where ST_Intersects(grid.geom, yellow.the_geom) group by grid.gid;`
+
 ### Adding and updating column
 * `Alter table tableName add column columnName dataType;`
 * `Update tableName set columnName = ST_Distance_Sphere(tableName.geom, tableName2.geom);`
