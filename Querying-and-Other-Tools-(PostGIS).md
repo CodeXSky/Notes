@@ -64,3 +64,6 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 * `Alter table tableName add column columnName dataType;`
 * `Update tableName set columnName = ST_Distance_Sphere(tableName.geom, tableName2.geom);`
 * `Update tableName set columnName = date(columnName) - date(columnName);`: produces an `int`.
+
+### Random sample
+* Here's an example on how to create a table with a random sample from another one: `create table random_350k as select * from random_personas order by random() limit 350000;`
