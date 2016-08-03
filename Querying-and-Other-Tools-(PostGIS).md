@@ -39,6 +39,7 @@ create table temp_results as
 select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(t.credit) as sum_credit from nynta as n, green_trips as t where st_intersects(t.the_geom,n.geom) group by n.ntaname;
 ```
 * Exporting to csv: `copy temp_results to 'path/to/file.csv' delimiter ',' csv header;`
+* Exporting with tab delimited `copy table_name to 'path/to/file.csv' delimiter E'\t' csv;`
 * Example of query: `copy (select od_pair, count(od_pair), date_trunc('year', f_ocurrencia_hecho) as year from crimes where param_hecho = 5 group by od_pair, year) to '/Users/juansaldarriaga/Google_Drive/01_SIDL/02_SIDL_Projects/1507_Victims_and_Displacement_Colombia/02_Data/02_Processed_Data/1603/OD_Pair_All_Years.csv';`
 * Export table to shapefile (from outside postgres): `pgsql2shp -f "path/to/shapefile.shp" database_name table_name`
 
