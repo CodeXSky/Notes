@@ -53,6 +53,7 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 
 ### Joining data from two tables
 * There are multiple types of joins but the normal one is `SELECT * FROM weather LEFT OUTER JOIN cities ON (weather.city = cities.name);`
+* Here's an example creating a new table containing the join: `create table random_declaracion as select * from random_ubicacion left outer join cabecerasmunicipales on (random_ubicacion.dane_decla = cabecerasmunicipales.coddanedbl);`
 * [Join Tutorial](https://www.postgresql.org/docs/8.3/static/tutorial-join.html)
 * [Join Tutorial](http://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm)
 
