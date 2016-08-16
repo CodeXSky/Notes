@@ -36,6 +36,7 @@
 * I maintain, support and update the Geographic Information Systems Database for the Graduate School of Architecture, Planning and Preservation at Columbia University, 2013 - present.
 
 #### Lectures, Exhibitions, Grants and Awards
+* **Environmental Costs of Spatial Regulation of Taxicabs** - Presentation at the [Second Annual Symposium on Transportation Informatics](https://www.buffalo.edu/transinfo/Events/2016Symposium.html), Arlington, Virginia, 2016.
 * **Activity Mapping - Columbia Data Science Society** - Lecture for the Columbia Data Science Society students at Columbia University, New York, 2016.
 * **[Activity Mapping - Art of Data Visualization](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be)** Lecture and workshop for the [Art of Data Visualization Conference](http://library.columbia.edu/news/events/data-visualization/dv_program.html) at Columbia University, New York, 2016.
 * **Patterns & Arguments and Activity Mapping** - Lectures for the Urban Design Event Series at Columbia University, New York, 2014 and 2015.
