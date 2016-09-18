@@ -110,4 +110,3 @@
   * [Neiman Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/)
 * MArch Work:
   * [New Territories](http://www.new-territories.com/blog/gsapp2011/)
-* Science Surveyor:
