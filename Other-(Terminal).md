@@ -23,3 +23,7 @@
 
 ### Monitor activity
 * `top -o cpu -s 2 -i 5` will show the top processes ordered by cpu usage (`o`), refreshed every 2 seconds (`-s 2`) using 5 second intervals (`-i 5`)
+
+### Printing from terminal
+* The basic command is `lp document_name`
+* To print to a specific destination (printer) use `lp -d printer_name document_name`
