@@ -17,6 +17,7 @@
 
 ### Errors
 * To 'unstage' commits do: `git reset --soft HEAD~` (if you need to 'unstage' multiple commits, repeat this command as many times as needed). Afterwards, when you've fixed the files you can `git add -A` and `git commit` again.
+* To remove from files you have 'added' do:`git reset HEAD <file>`. Your files will still be in the folder but they will not be 'added' to github anymore.
 * If you only need to change the commit message then `git commit --amend` will open the message editor.
 
 More info [here](https://github.com/denten/dhnotes/wiki/github-workflow) by Dennis Tenen.
