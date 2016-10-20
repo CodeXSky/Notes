@@ -65,14 +65,16 @@
 * Spatial research support for the **[Sharing Models: Manhattanisms](http://storefrontnews.org/programming/sharing-models-manhattanisms/)** exhibition at Storefront for Art and Architecture, New York, New York, 2016.
 
 #### Grants and Awards
+* **Conflict Urbanism: Colombia** - Awarded best academic visualization at the [CitiViz](http://cityvis.io/competition.html) competition organized by [Habitat X Change](https://t.co/lRv2fgnUDO) during UN's Habitat 3 summit, 2016.
 * Principal Investigator - **Points Unknown: New Frameworks for Investigation and Creative Expression Through Mapping** - A grant to create and implement courses that combine mapping, narrative and storytelling in the School of Journalism and in the Graduate School of Architecture, Planning and Preservation at Columbia University. Collaboratory Grant ($150,000), Columbia University, 2016 - 2017.
 * Mellon Research Scholar - **Conflict Urbanism** - A grant to create the [Center for Spatial Research](http://c4sr.columbia.edu/), carry out research projects and teach seminars and methods courses at Columbia University. The Andrew W. Mellon Foundation, [Architecture, Urbanism and the Humanities grant](https://mellon.org/initiatives/architecture-urbanism-and-humanities/), 2015 - 2019.
 * Participant - **[Science Surveyor - Context On Deadline](http://brown.columbia.edu/magic)** - A grant to create the Science Surveyor tool for science journalists. Brown Institute for Media Innovation Flagship Project Magic Grant 2015 - 2016, and Brown Institute for Media Innovation 2014 - 2015 Magic Grant.
 
 #### Other Press
+* **Conflict Urbanism: Colombia** - Kurgan, L., Saldarriaga, J., Rettberg, A., - Featured in [The Atlantic Citylab](http://www.citylab.com/tech/2016/10/the-importance-of-data-visualization-at-habitat-iii/504566/), 2016.
 * **Citibike Station Imbalances & Citibike Rides** - Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., - Featured in [The New York Times](http://cityroom.blogs.nytimes.com/2014/03/31/by-plotting-journeys-providing-a-glimpse-at-citi-bike-ridership/?_r=0), 2014.
 * **Citibike Station Imbalances & Citibike Rides** - Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., - Featured in [The Washington Post](https://www.washingtonpost.com/blogs/wonkblog/wp/2014/06/25/the-ultimate-riddle-of-supply-and-demand-bikeshare), 2014.
-* **Citibike Station Imbalances & Citibike Rides** - Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., - Featured in [The Atlantic Citilab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/), 2014.
+* **Citibike Station Imbalances & Citibike Rides** - Saldarriaga, J., King, D., Kaufman, S., Ferzoco, J., - Featured in [The Atlantic Citylab](http://www.citylab.com/commute/2014/04/48-madcap-hours-life-citi-bike/8778/), 2014.
 * **Here Now! Social Media And The Psychological City** - Williams, S., Saldarriaga, J., Bullen, G., Tan, F., Youse, N. - Featured in [ArchDaily](http://www.archdaily.com/222024/here-now-spatial-information-design-lab-columbia-university), 2012.
 * **NYC Taxi Activity** - Saldarriaga, J., King, D., Peters, J., - Featured in [The Atlantic CityLab](http://www.citylab.com/commute/2012/02/taxis-part-transit-system/1133/), 2012.
 * **NYC Taxi Activity** - Saldarriaga, J., King, D., Peters, J., - Featured in [The Atlantic Video](http://www.theatlantic.com/video/index/253385/visualizing-the-paths-of-10-000-taxi-rides-across-manhattan/), 2012.
