@@ -1,10 +1,10 @@
-Based on [this tutorial](http://morphocode.com/how-to-install-postgis-on-mac-os-x/) from Morphocode.
+Based on [this tutorial](http://morphocode.com/how-to-install-postgis-on-mac-os-x/) from Morphocode and on [this tutorial](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac) by LaunchSchool.
 
 ### Installing PostgreSQL and PostGIS
-Use [Homebrew](http://brew.sh/) to intall both:
+Use [Homebrew](http://brew.sh/) to install both:
 * `brew install postgres`
   * You will get this as an answer:
-  ```bash
+  ```
   ==> Installing dependencies for postgresql: readline
   ==> Installing postgresql dependency: readline
   ==> Downloading https://homebrew.bintray.com/bottles/readline-7.0.1.sierra.bottle.tar.gz
@@ -54,17 +54,22 @@ Use [Homebrew](http://brew.sh/) to intall both:
   ==> Summary
   🍺  /usr/local/Cellar/postgresql/9.6.1: 3,242 files, 36.4M
   ```
-* `brew install postgis`
+* If you don't have `brew services` install is with `brew tap homebrew/services`
+  * Now you can start postgresql with `brew services start postgresql`
+  * And you can stop postgresql with `brew services stop postgresql`
+  * You can also restart postgresql with `brew services restart postgresql`
+* Finally, install postgis with `brew install postgis`
 
 ### Starting a PostgreSQL Server
-* First you need to point to the right location on your computer with `pg_ctl -D /usr/local/var/postgres start` (this is the default location).
+* First you need to start postgresql with `brew services start postgresql`
+* If you are using `brew services` you don't need this anymore (First you need to point to the right location on your computer with `pg_ctl -D /usr/local/var/postgres start` (this is the default location)).
 * Create a variable that holds the path with `export PGDATA='/usr/local/var/postgres'`.
-* Check to see if the server is runing with `pg_ctl status`.
+* Check to see if the server is running with `pg_ctl status`.
 * You should get something like this: `pg_ctl: server is running (PID: 18740)
 /usr/local/Cellar/postgresql/9.4.1/bin/postgres "-D" "/usr/local/var/postgres"`.
 
 ### Creating the database
-* Next, if this is a fresh install, you need to start the database cluster with `initdb /usr/local/var/postgres`.
+* Next, if this is a fresh install, you need to start the database cluster with `initdb /usr/local/var/postgres`. You might get an error saying `initdb: directory "/usr/local/var/postgres" exists but is not empty`. If you do, I solved this by removing the folder with `rm -r /usr/local/var/postgres` and running `initdb /usr/local/var/postgres` again.
 * Finally, create a new database with `createdb database_name`.
 * To connect to the new database do `psql database_name`.
 * You need to enable PostGIS: `CREATE EXTENSION postgis;` (Remember, the sql commands end with a `;`).
@@ -72,8 +77,8 @@ Use [Homebrew](http://brew.sh/) to intall both:
 * To quit psql type `\q`.
 
 ### Other commands
-* Stop postgresql: `pg_ctl -D /usr/local/var/postgres stop -s -m fast`.
-* Start postgresql and use a log file: `pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start`.
+* Stop postgresql: `pg_ctl -D /usr/local/var/postgres stop -s -m fast`. (you can also use `brew services` for this)
+* Start postgresql and use a log file: `pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start`. (you can also use `brew services` for this)
 * Drop a database: `dropdb database_name`.
 * Delete a postgresql cluster: `rm -rf /usr/local/var/postgres/`.
 * List all tables in database: `\dt`.
