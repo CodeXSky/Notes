@@ -26,6 +26,9 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 * [Loading Files to a Spatial Database](https://github.com/juanfrans/notes/wiki/Loading-Files-to-PostGIS-(PostGIS))
 * [Querying and Other PostGIS Tools](https://github.com/juanfrans/notes/wiki/Querying-and-Other-Tools-(PostGIS))
 
+### Python
+* [Basic Pandas Commands](https://github.com/juanfrans/notes/wiki/Basic-Pandas-Commands-(Python))
+
 ### Other
 * [Conferences and Journals](https://github.com/juanfrans/notes/wiki/Conferences-and-Journals)
 * [CV, Links and Publications](https://github.com/juanfrans/notes/wiki/CV-Links-and-Publications)
