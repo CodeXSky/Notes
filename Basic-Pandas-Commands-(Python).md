@@ -20,6 +20,7 @@ baseData.head()
 grouped_df = df.groupby('columnName')
 grouped_df.size()
 ```
+* To group by multiple columns you can use the `pd.Grouper` function: `df.groupby([pd.Grouper(freq='MS', key='date'), 'column2']).count().unstack()`
 
 ### Converting a column to date_time type
 * The standard way of doing this is: `df['columnName'] = pd.to_datetime(df['columnName'], dayfirst=True)` (the `dayfirst=True` is for dates where the first item is the day, not the month). However, this one takes a long time.
@@ -57,6 +58,9 @@ newDataframe.resample('M').count()
 
 ### Sort
 * Sort a dataframe based on values in a column: `df.sort_values('columnName', ascending=False)`
+
+### Creating subset
+* Create a dataframe based on values in a column: `subset_df = df.loc[df['columnName'] == value]`
 
 ### Rename
 * Rename columns: `df.columns['newColumnNameA', 'newColumnNameB']`
