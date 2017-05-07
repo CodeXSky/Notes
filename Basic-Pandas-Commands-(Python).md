@@ -21,6 +21,34 @@ grouped_df = df.groupby('columnName')
 grouped_df.size()
 ```
 * To group by multiple columns you can use the `pd.Grouper` function: `df.groupby([pd.Grouper(freq='MS', key='date'), 'column2']).count().unstack()`
+* Here's the dictionary for the `frequency`:
+  * `B`	business day frequency
+  * `C`	custom business day frequency (experimental)
+  * `D`	calendar day frequency
+  * `W`	weekly frequency
+  * `M`	month end frequency
+  * `SM`	semi-month end frequency (15th and end of month)
+  * `BM`	business month end frequency
+  * `CBM`	custom business month end frequency
+  * `MS`	month start frequency
+  * `SMS`	semi-month start frequency (1st and 15th)
+  * `BMS`	business month start frequency
+  * `CBMS`	custom business month start frequency
+  * `Q`	quarter end frequency
+  * `BQ`	business quarter endfrequency
+  * `QS`	quarter start frequency
+  * `BQS`	business quarter start frequency
+  * `A`	year end frequency
+  * `BA`	business year end frequency
+  * `AS`	year start frequency
+  * `BAS`	business year start frequency
+  * `BH`	business hour frequency
+  * `H`	hourly frequency
+  * `T, min`	minutely frequency
+  * `S`	secondly frequency
+  * `L, ms`	milliseconds
+  * `U, us`	microseconds
+  * `N`	nanoseconds
 
 ### Converting a column to date_time type
 * The standard way of doing this is: `df['columnName'] = pd.to_datetime(df['columnName'], dayfirst=True)` (the `dayfirst=True` is for dates where the first item is the day, not the month). However, this one takes a long time.
