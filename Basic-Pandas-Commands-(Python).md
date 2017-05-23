@@ -95,5 +95,14 @@ newDataframe.resample('M').count()
 * Replace values in a column: `baseData['columnName'] = baseData['columnName'].replace(['valueToReplaceA', 'valueToReplaceB'], ['newValueNameA', 'newValueNameB'])`
 * Replace values in a column that contain: `baseData.loc[baseData['columnName'].str.contains('stringToReplace', case=False), 'columnName'] = 'newString'`
 
+### Merge
+* To merge two datasets based on a common value do: `merged_df = pd.merge(df_1, df_2, on='columnName')`
+* If they have different column names then: `merge_df = pd.merge(df_1, df_2, left_on='columnName1', right_on='columnName2')`
+* Or if one of the 'key' columns is the index then: `merge_df = pd.merge(df_1, df_2, left_index=True, right_on='columnName')`
+* [Here](http://pandas.pydata.org/pandas-docs/stable/merging.html) is a good explanation to more methods.
+
+### Pivot tables
+* To create a pivot table use the following: `pivotTable_df = df.pivot_table(index='columnName', columns=[pd.Grouper(freq='A', key='dateColumName'), 'columnName'], values='columnName', aggfunc='function_count_or_sum_etc')`
+
 ### Export
 * Export dataframe to csv: `baseData.to_csv('newFileName.csv')`
