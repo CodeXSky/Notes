@@ -103,6 +103,7 @@ newDataframe.resample('M').count()
 
 ### Pivot tables
 * To create a pivot table use the following: `pivotTable_df = df.pivot_table(index='columnName', columns=[pd.Grouper(freq='A', key='dateColumName'), 'columnName'], values='columnName', aggfunc='function_count_or_sum_etc')`
+* To create a pivot table with multiple aggregating functions do: `pivotTable_df = df.pivot_table(index='columnName', values=['columnName1', 'columnName2', 'columnName3'], aggfunc={'columnName1':'mean', 'columnName2':'mean', 'columnName3':'count'})`
 
 ### Export
 * Export dataframe to csv: `baseData.to_csv('newFileName.csv')`
