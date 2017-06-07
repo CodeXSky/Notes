@@ -13,6 +13,11 @@ baseData.head()
 * List column types: `df.dtypes`
 * List unique values in a column: `df['columnName'].unique()`
 
+### Creating new (empty) dataframe
+* First create the array for the columns: `columns = ['columnName1', 'columnName2', 'columnName3']`
+* Next, create the array for the index (in this case I'm creating a date-time array, which needs to `import datetime`): `index = pd.date_range(start='2015-08-01', end='2017-03-01', freq='MS')`
+* Finally, create the dataframe: `newDataFrame = pd.DataFrame(index=index, columns=columns)`
+
 ### Group
 * Group by a specific column and count: `df.groupby('columnName').count()`
 * You can also group and then print the size of each group:
