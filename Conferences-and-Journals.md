@@ -1,28 +1,49 @@
 ### Conferences
-* [GIS Science 2016](http://www.giscience2016.org/):
-  * Conference: September 2016 (Montreal, Canada)
-  * Workshops & Tutorial proposals due: January 13, 2016
-  * Full papers due: February 10, 2016
-  * Extended abstracts due: May 4, 2016
-* [Velo-City Global 2016](http://www.velo-city2016.com/index.php/en/)
-  * February 27 - March 1
-* [IEEE International Conference on Data Mining 2016](http://icdm2016.eurecat.org/):
-  * Full paper submission: June 17, 2016
-* [InfoVis](http://ieeevis.org/):
-  * Conference: October 23 - 28 (Baltimore, Maryland)
-* [UIC Workshops on Big Data and Urban Informatics](http://urbanbigdata.uic.edu/)
-* [SAGEO](http://sageo2015.sciencesconf.org/)
-* [KDD2016 Conference on Knowledge, Discovery and Data Mining](http://www.kdd.org/kdd2016/):
-  * August 13 - 17, 2016, San Francisco
-  * Paper submission date: February 12, 2016
+* [Tapestry Conference](http://www.tapestryconference.com/)
+  * ~ March
+* [International Geographical Union](http://igu-online.org/)
+  * ~ April
+* [American Association of Geographers Annual Meeting](http://www.aag.org/annualmeeting):
+  * April 10 - 14, 2018, New Orleans
+  * Call for papers: ~ August 1st
+* [csv,conf](http://csvconf.com/):
+  * ~ May
+  * Call for speakers: ~ February
+* [Information + Conference](http://informationplusconference.com/)
+  * ~ June
+* [European Bicycle Sharing & Systems Conference](https://ecf.com/community/platform-european-bicycle-sharing-systems-pebss)
+  * ~ June
+* [Velo-City Conference](https://www.velo-city2017.com/)
+  * ~ June
+* [International Cartographic Conference (ICC)](http://icc2017.org/):
+  * ~ July
+* [Esri User Conference](http://www.esri.com/about/events/uc)
+  * ~ July
+* [GIS Science](http://www.giscience.org/):
+  * August 28 - 31, 2018, Melbourne, Australia
+  * Workshops & Tutorial proposals due: ~ January
+  * Full papers due: ~ February
+  * Extended abstracts due: ~ May
+* [Strata Data Conference](https://conferences.oreilly.com/strata/strata-ny/public/cfp/530)
+  * ~ September
+  * Call for speakers: ~ April
+* [Vis](http://ieeevis.org/):
+  * ~ October
+  * Submissions: ~ March
 * [ACSA (Association of Collegiate Schools of Architecture)](http://www.acsa-arch.org/programs-events/conferences):
-  * March 17-19, 2016, Seattle
-  * Calls for papers and projects
-* [13th Pascal International Conference](http://conference2016.pascalobservatory.org/conference-2016/calls)
-  * Abstract deadline February 22
-  * June 3 - 5, Glasgow
+  * ~ October
+  * Call for abstracts: ~ May
 * [Association of Collegiate Schools of Planning](http://www.acsp.org/)
-* [csvconf](http://csvconf.com/)
+  * ~ October
+  * Call for papers: ~ March
+* [IEEE Vis Arts Program](http://visap.uic.edu/2017/):
+  * ~ October
+  * Call for paper or exhibition: ~ June
+* [IEEE Data Science and Advanced Analytics](http://www.dslab.it.aoyama.ac.jp/dsaa2017/)
+  * ~ October
+  * Call for papers: ~ May
+* [Plotcon](https://plotcon.plot.ly/):
+  * November 2017, New York
 
 ### Journals
 * Cartography:
@@ -33,6 +54,7 @@
   * [Journal of Economic Geography](http://joeg.oxfordjournals.org/)
   * [Antipode - A Radical Journal of Geography](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8330)
   * [Cartographic Perspectives](http://www.cartographicperspectives.org/index.php/journal)
+  * [Journal of Latin American Geography](http://digitalcommons.lsu.edu/jlag/)
 * Computer Science:
   * [Computers Environment and Urban Systems](http://www.journals.elsevier.com/computers-environment-and-urban-systems/)
   * [ACM Transaction on Intelligent Systems and Technology](http://tist.acm.org/index.php)
