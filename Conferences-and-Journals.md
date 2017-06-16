@@ -15,6 +15,9 @@
   * ~ June
 * [Velo-City Conference](https://www.velo-city2017.com/)
   * ~ June
+* [EuroVis](http://eurovis2017.virvig.es/index.php)
+  * ~ June
+  * Submissions: ~ December
 * [International Cartographic Conference (ICC)](http://icc2017.org/):
   * ~ July
 * [Esri User Conference](http://www.esri.com/about/events/uc)
