@@ -18,6 +18,8 @@
 * [EuroVis](http://eurovis2017.virvig.es/index.php)
   * ~ June
   * Submissions: ~ December
+* [International School and Conference on Network Science - NetSci](https://www.netsci2018.com/)
+  * June 11 - 15, Paris
 * [International Cartographic Conference (ICC)](http://icc2017.org/):
   * ~ July
 * [Esri User Conference](http://www.esri.com/about/events/uc)
