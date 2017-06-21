@@ -20,6 +20,8 @@
   * Submissions: ~ December
 * [International School and Conference on Network Science - NetSci](https://www.netsci2018.com/)
   * June 11 - 15, Paris
+* [PostgresVision](http://postgresvision.com/)
+  * ~ June
 * [International Cartographic Conference (ICC)](http://icc2017.org/):
   * ~ July
 * [Esri User Conference](http://www.esri.com/about/events/uc)
@@ -29,9 +31,15 @@
   * Workshops & Tutorial proposals due: ~ January
   * Full papers due: ~ February
   * Extended abstracts due: ~ May
+* [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny?cmp=mp-mh-data-confreg-home-jpny17_11255_862_pc)
+  * ~ August
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-ny/public/cfp/530)
   * ~ September
   * Call for speakers: ~ April
+* [GeoComputation](http://www.geocomputation.org/2017/conference/)
+  * ~ September
+* [The Data Science Conference](https://www.thedatascienceconference.com/)
+  * ~ September
 * [Vis](http://ieeevis.org/):
   * ~ October
   * Submissions: ~ March
