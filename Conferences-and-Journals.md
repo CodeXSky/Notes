@@ -1,6 +1,9 @@
 ## Conferences
 * [Tapestry Conference](http://www.tapestryconference.com/)
   * ~ March
+  * [ACSA (Association of Collegiate Schools of Architecture)](http://www.acsa-arch.org/programs-events/conferences):
+    * ~ March
+    * Call for abstracts: ~ August
 * [International Geographical Union](http://igu-online.org/)
   * ~ April
 * [American Association of Geographers Annual Meeting](http://www.aag.org/annualmeeting):
@@ -43,9 +46,6 @@
 * [Vis](http://ieeevis.org/):
   * ~ October
   * Submissions: ~ March
-* [ACSA (Association of Collegiate Schools of Architecture)](http://www.acsa-arch.org/programs-events/conferences):
-  * ~ October
-  * Call for abstracts: ~ May
 * [Association of Collegiate Schools of Planning](http://www.acsp.org/)
   * ~ October
   * Call for papers: ~ March
