@@ -34,6 +34,8 @@
   * Workshops & Tutorial proposals due: ~ January
   * Full papers due: ~ February
   * Extended abstracts due: ~ May
+* [FOSS4G](http://foss4g.org/)
+  * ~ August
 * [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny?cmp=mp-mh-data-confreg-home-jpny17_11255_862_pc)
   * ~ August
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-ny/public/cfp/530)
