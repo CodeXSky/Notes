@@ -72,3 +72,6 @@ s_2013_pickups as t where st_contains(s.geom,t.the_geom) group by s.gid) points 
 
 ### Random sample
 * Here's an example on how to create a table with a random sample from another one: `create table random_350k as select * from random_personas order by random() limit 350000;`
+
+### Running an SQL script from the command line
+* `psql -U myDatabaseUsername --password -d myDatabaseName -f mySqlScript.sql -h myHostName`
