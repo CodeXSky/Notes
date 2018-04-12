@@ -29,6 +29,9 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 ### Python
 * [Basic Pandas Commands](https://github.com/juanfrans/notes/wiki/Basic-Pandas-Commands-(Python))
 
+### Heroku
+* [Basic Heroku Commands](https://github.com/juanfrans/notes/wiki/Basic-Heroku-Commands)
+
 ### Other
 * [Conferences and Journals](https://github.com/juanfrans/notes/wiki/Conferences-and-Journals)
 * [CV, Links and Publications](https://github.com/juanfrans/notes/wiki/CV-Links-and-Publications)
