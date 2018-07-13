@@ -66,6 +66,9 @@ select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(
 * `Update tableName set columnName = ST_Distance_Sphere(tableName.geom, tableName2.geom);`
 * `Update tableName set columnName = date(columnName) - date(columnName);`: produces an `int`.
 
+### Updating or changing values
+* `Update tableName set columnName = newValue where columnName = referenceValue;`
+
 ### Counting pionts in polygons and updating a column
 * `update service_area_allyearsdata_acs_price set grnpck13 = points.total from (select s.gid, count(t.pickup_latitude) as total from service_area_allyearsdata_acs_price as s, green_trip
 s_2013_pickups as t where st_contains(s.geom,t.the_geom) group by s.gid) points where service_area_allyearsdata_acs_price.gid=points.gid;`
@@ -75,3 +78,6 @@ s_2013_pickups as t where st_contains(s.geom,t.the_geom) group by s.gid) points 
 
 ### Running an SQL script from the command line
 * `psql -U myDatabaseUsername --password -d myDatabaseName -f mySqlScript.sql -h myHostName`
+
+### Restoring a database from a backup
+* Local database: `pg_restore --verbose --clean --no-acl --no-owner -h localhost -d databaseName latest.dump `

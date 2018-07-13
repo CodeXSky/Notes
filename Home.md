@@ -21,7 +21,7 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 ### Markdown Basics
 * [Markdown Basics](https://github.com/juanfrans/notes/wiki/Markdown-Basics)
 
-### PostGIS
+### SQL, Postgresql, and PostGIS
 * [Creating a Spatial Database](https://github.com/juanfrans/notes/wiki/Creating-a-Spatial-Database-(PostGIS))
 * [Loading Files to a Spatial Database](https://github.com/juanfrans/notes/wiki/Loading-Files-to-PostGIS-(PostGIS))
 * [Querying and Other PostGIS Tools](https://github.com/juanfrans/notes/wiki/Querying-and-Other-Tools-(PostGIS))
