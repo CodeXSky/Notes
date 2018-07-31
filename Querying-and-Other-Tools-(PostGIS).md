@@ -5,6 +5,7 @@ Here are some examples of queries and other useful commands.
 * Selecting by location with a radius: `select t.pickup_longitude from green_trips as t, nynta as n where n.ntaname = 'West Village' and st_dwithin(t.the_geom,n.geom,100);`
 * Adding trips by location: `select n.ntaname, count(t.pickup_latitude) from nynta as n, green_trips as t where st_intersects(t.the_geom,n.geom) group by n.ntaname;`
 * More adding trips by location: `select n.ntaname, count(pickup_latitude) as total, sum(t.cash) as sum_cash, sum(t.credit) as sum_credit from nynta as n, green_trips as t where st_intersects(t.the_geom,n.geom) group by n.ntaname;`
+* Select rows with `like`: `select from tableName where tableColumn like 'keyWordOrLetter%';`. This one selects all that start with that keyword or letter. You can also do `%keyword` or `%keyword%`.
 
 ### Other
 * List all databases with `\l`. Or list with description and size (disk usage): `\l+`
