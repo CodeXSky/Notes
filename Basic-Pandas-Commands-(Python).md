@@ -7,6 +7,9 @@ baseData = xlFile.parse('SheetName')
 baseData.head()
 ```
 
+### Reading CSV files
+* `dataFrameName = pd.read_csv('path/to/file.csv', delimiter=',', encoding(?))`
+
 ### Description
 * Basic description of a dataframe: `df.shape`
 * Description of dataframe: `df.describe()`
