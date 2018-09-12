@@ -7,6 +7,9 @@
 ### Enter the postgresql database
 * `heroku pg:psql`
 
+### Export table from a Heroku database
+* The normal `copy` command doesn't work with these permissions. Use this one instead: `\COPY tableName TO 'path/to/file.csv' WITH (FORMAT csv, DELIMITER ',',  HEADER true);`
+
 ### Process for creating a table from an app
 * Open the python console in your Heroku instance: `heroku run python`
 * Import the `db` class from SQLAlchemy: `from app import db`
