@@ -33,6 +33,9 @@ This Wiki hosts notes, commands and snippets of code that I've been using and th
 ### Heroku
 * [Basic Heroku Commands](https://github.com/juanfrans/notes/wiki/Basic-Heroku-Commands)
 
+### Front-End
+* [Minifying a Project](https://github.com/juanfrans/notes/wiki/Minifying-Project)
+
 ### Other
 * [Conferences and Journals](https://github.com/juanfrans/notes/wiki/Conferences-and-Journals)
 * [CV, Links and Publications](https://github.com/juanfrans/notes/wiki/CV-Links-and-Publications)
