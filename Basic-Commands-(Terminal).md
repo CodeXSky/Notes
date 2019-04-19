@@ -39,6 +39,7 @@
 
 ### Downloading files
 * `wget` - get something, usually from a site online (ie. `wget http://etc.etc`). Probably need to install the right command through "homebrew".
+* `wget -i fileName` will run the `wget` command on each line of the file.
 
 ### Navigating in the Terminal
 * 'ctrl+A' - moves to start of line.
@@ -48,3 +49,20 @@
 * 'ctrl+U' - deletes from cursor to start of line.
 * 'ctrl+K' - deletes from cursor to end of line.
 * 'ctrl+W' - deletes from cursor to beginning of current word.
+
+### Looping through a csv file
+```
+INPUT=baseFileName
+OLDIFS=$IFS
+IFS=,
+[ ! -f $INPUT ]
+while read field1 field2
+  do
+  echo $field1
+  echo $field2
+  done < $INPUT
+IFS=$OLDIFS
+```
+
+### Resizing image files
+* `sips -Z 640 *.jpg` - this will resize all `.jpg` files. `-Z` keeps the aspect ratio and `640` is the max width or height in pixels.
