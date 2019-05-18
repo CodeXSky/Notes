@@ -1,4 +1,4 @@
-###Creating a Cron Job
+### Creating a Cron Job
 * First, you need to open the crontab file. To do this use `env EDITOR=nano crontab -e`. This will open up the crontab file in Nano.
 * Then type the timing sequence and the command to execute. The timing sequence works as follows:
 * `0 11 * * *` - This will perform the job every day at 11am.
