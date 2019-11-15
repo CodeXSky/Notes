@@ -1,4 +1,4 @@
 * To copy files between your computer and your instance you can use an FTP service like [FileZilla](https://filezilla-project.org/) or the command `scp` which stands for _secure copy_.
 * To use `scp` with a key pair use the following command: `scp -i path/to/key file/to/copy user@ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com:path/to/file`.
 * To use it without a key pair, just omit the flag `-i` and type in the password of the user when prompted.
-* To copy an entire directory, add the `-r` recursive option.: `scp -i path/to/key -r directory/to/copy user@ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com:path/to/file`.
+* To copy an entire directory, add the `-r` recursive option: `scp -i path/to/key -r directory/to/copy user@ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com:path/to/directory`.
